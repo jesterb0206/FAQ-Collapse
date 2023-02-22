@@ -15,7 +15,7 @@
 
 <br>
 
-![FAQ Collapse](images/FAQ-Collapse.png)
+![FAQ Collapse](images/faq-collapse.png)
 
 <br>
 
