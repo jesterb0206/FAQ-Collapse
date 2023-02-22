@@ -15,11 +15,11 @@
 
 <br>
 
-![FAQ Collapse]()
+![FAQ Collapse](images/FAQ-Collapse.png)
 
 <br>
 
-[Deployment]()
+[Deployment](https://jesterb0206.github.io/FAQ-Collapse/)
 
 <br>
 
